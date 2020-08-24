@@ -1,0 +1,12 @@
+/* ul{
+    display: inline;
+} */
+
+li{
+    display: inline-block;
+    margin: 30px;
+}
+
+img{
+    height: 100px;
+}
